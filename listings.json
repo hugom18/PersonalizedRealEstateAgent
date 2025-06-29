@@ -1,0 +1,110 @@
+[
+  {
+    "neighborhood": "Upper East Side",
+    "price": "$1,200,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1200,
+    "description": "Beautifully renovated 2 bedroom, 2 bathroom condo in the heart of the Upper East Side. Features hardwood floors, modern kitchen with stainless steel appliances, and stunning views of Central Park.",
+    "neighborhood_description": "The Upper East Side is known for its upscale shops, restaurants, and museums. It is a prestigious and desirable neighborhood with tree-lined streets and historic brownstones."
+  },
+  {
+    "neighborhood": "West Hollywood",
+    "price": "$1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful modern home in the heart of West Hollywood. This newly renovated property features an open floor plan, high ceilings, and a spacious backyard with a pool. Perfect for entertaining guests or enjoying a quiet evening at home.",
+    "neighborhood_description": "West Hollywood is known for its trendy shops, restaurants, and nightlife. This property is conveniently located near popular attractions such as the Sunset Strip and Santa Monica Boulevard."
+  },
+  {
+    "neighborhood": "Downtown Los Angeles",
+    "price": "$750,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1200,
+    "description": "Luxurious condo in the heart of Downtown LA with modern finishes and stunning city views. Spacious living area, gourmet kitchen, and rooftop pool.",
+    "neighborhood_description": "Downtown LA is a bustling urban neighborhood with a mix of historic buildings and modern skyscrapers. It offers a vibrant nightlife, trendy restaurants, and easy access to public transportation."
+  },
+  {
+    "neighborhood": "Midtown",
+    "price": "$750,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful modern condo in the heart of Midtown. This spacious 3 bedroom, 2 bathroom unit features high-end finishes, an open concept layout, and stunning city views. The building offers a rooftop terrace, fitness center, and 24-hour concierge service.",
+    "neighborhood_description": "Midtown is a vibrant neighborhood known for its bustling nightlife, cultural attractions, and convenient location. Residents enjoy easy access to trendy restaurants, upscale boutiques, and public transportation."
+  },
+  {
+    "neighborhood": "Midtown",
+    "price": "$750,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful modern condo in the heart of Midtown. This spacious unit features an open floor plan, hardwood floors, and floor-to-ceiling windows with stunning city views. The kitchen is equipped with stainless steel appliances and granite countertops. The master bedroom has a walk-in closet and en-suite bathroom with a double vanity. Building amenities include a fitness center, rooftop terrace, and 24-hour concierge.",
+    "neighborhood_description": "Midtown is a vibrant neighborhood known for its bustling nightlife, upscale dining options, and cultural attractions. Residents enjoy easy access to Piedmont Park, the High Museum of Art, and the Fox Theatre. With its central location and diverse community, Midtown offers a dynamic urban living experience."
+  },
+  {
+    "neighborhood": "Downtown Los Angeles",
+    "price": "$750,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1200,
+    "description": "Modern and spacious condo in the heart of Downtown LA. Features high ceilings, floor-to-ceiling windows, and a gourmet kitchen with stainless steel appliances. The building offers amenities such as a rooftop pool, fitness center, and 24-hour concierge.",
+    "neighborhood_description": "Downtown LA is a vibrant neighborhood with a mix of historic architecture and modern skyscrapers. It is home to many trendy restaurants, bars, and cultural attractions, making it a popular destination for both residents and visitors alike."
+  },
+  {
+    "neighborhood": "Park Slope",
+    "price": "$1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful brownstone townhouse in the heart of Park Slope. This newly renovated property features a spacious living room, modern kitchen with stainless steel appliances, and a private backyard. The master bedroom has an en-suite bathroom with a luxurious soaking tub. Enjoy the convenience of being walking distance to Prospect Park and trendy shops and restaurants.",
+    "neighborhood_description": "Park Slope is a family-friendly neighborhood known for its tree-lined streets, historic brownstones, and vibrant community. Residents enjoy easy access to Prospect Park, Brooklyn Botanic Garden, and a wide selection of restaurants and cafes."
+  },
+  {
+    "neighborhood": "Williamsburg",
+    "price": "$1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful brownstone townhouse in the heart of Williamsburg. This historic home features original hardwood floors, high ceilings, and a private backyard. Renovated kitchen with stainless steel appliances and marble countertops. Close to trendy restaurants, bars, and shops.",
+    "neighborhood_description": "Williamsburg is a hip and vibrant neighborhood in Brooklyn known for its art scene, trendy boutiques, and waterfront views. It offers easy access to Manhattan via the L train and is home to a mix of young professionals and families."
+  },
+  {
+    "neighborhood": "West Hollywood",
+    "price": "$1,250,000",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "size_sqft": 2000,
+    "description": "Beautiful modern home in the heart of West Hollywood. This recently renovated property features high-end finishes, an open floor plan, and a spacious backyard with a pool. Perfect for entertaining and enjoying the California lifestyle.",
+    "neighborhood_description": "West Hollywood is known for its trendy shops, restaurants, and nightlife. It's a vibrant and diverse community with a mix of young professionals, artists, and celebrities. The neighborhood offers easy access to the Sunset Strip, Beverly Hills, and the Hollywood Hills."
+  },
+  {
+    "neighborhood": "Midtown Manhattan",
+    "price": "$1,200,000",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size_sqft": 1200,
+    "description": "Luxurious and spacious condo in the heart of Midtown Manhattan. This modern unit features high-end finishes, floor-to-ceiling windows with stunning city views, and a gourmet kitchen with top-of-the-line appliances. The building offers a 24-hour doorman, fitness center, and rooftop terrace.",
+    "neighborhood_description": "Midtown Manhattan is a bustling neighborhood known for its iconic landmarks like Times Square, Rockefeller Center, and Broadway. It is also home to world-class restaurants, shopping, and entertainment options."
+  },
+  {
+    "neighborhood": "Brooklyn Heights",
+    "price": "$1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful brownstone townhouse in the heart of Brooklyn Heights. Renovated kitchen with stainless steel appliances, hardwood floors throughout, and a spacious backyard perfect for entertaining.",
+    "neighborhood_description": "Brooklyn Heights is a historic neighborhood known for its tree-lined streets, charming brownstones, and stunning views of the Manhattan skyline. Close to Brooklyn Bridge Park, trendy restaurants, and convenient transportation options."
+  },
+  {
+    "neighborhood": "Upper East Side",
+    "price": "$1,200,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "Beautiful pre-war apartment with high ceilings and hardwood floors. Spacious living room and formal dining room. Renovated kitchen with stainless steel appliances. Master bedroom with en-suite bathroom.",
+    "neighborhood_description": "The Upper East Side is a prestigious neighborhood known for its upscale shops, galleries, and restaurants. It is also home to famous museums like the Metropolitan Museum of Art and the Guggenheim."
+  }
+]
